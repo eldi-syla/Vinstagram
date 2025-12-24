@@ -1,0 +1,12 @@
+/* src/routes/SignUpRoute.module.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.switch {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}

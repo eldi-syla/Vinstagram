@@ -1,0 +1,23 @@
+/* src/components/AuthForm.module.css */
+.form {
+  background: white;
+  padding: 1.25rem;
+  border-radius: 8px;
+  max-width: 360px;
+  width: 100%;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+
+.form h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.error {
+  background: #fee2e2;
+  color: #991b1b;
+  padding: 0.35rem 0.5rem;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+}

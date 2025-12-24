@@ -1,0 +1,27 @@
+.container {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.devButton {
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  border: none;
+  background: #dc2626;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.devButton:hover {
+  background: #b91c1c;
+}
+
+.info {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  color: #6b7280;
+  text-align: center;
+}

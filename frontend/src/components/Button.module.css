@@ -1,0 +1,22 @@
+/* src/components/Button.module.css */
+.button {
+  border: none;
+  padding: 0.4rem 0.9rem;
+  border-radius: 4px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.button:hover {
+  background: #1d4ed8;
+}
+
+.secondary {
+  background: #374151;
+}
+
+.secondary:hover {
+  background: #4b5563;
+}
