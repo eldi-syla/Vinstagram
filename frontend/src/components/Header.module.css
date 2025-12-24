@@ -1,0 +1,26 @@
+/* src/components/Header.module.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #111827;
+  color: white;
+  padding: 0.75rem 1rem;
+}
+
+.logo {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.user {
+  margin-right: 0.5rem;
+  font-size: 0.9rem;
+}
