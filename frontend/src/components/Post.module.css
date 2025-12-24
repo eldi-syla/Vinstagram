@@ -1,0 +1,38 @@
+/* src/components/Post.module.css */
+.post {
+  background: white;
+  padding: 0.8rem 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  color: #6b7280;
+  margin-bottom: 0.4rem;
+}
+
+.author {
+  font-weight: 600;
+}
+
+.text {
+  margin: 0.25rem 0 0.5rem;
+}
+
+.imageWrapper {
+  margin: 0.5rem 0;
+}
+
+.image {
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+.comments {
+  border-top: 1px solid #e5e7eb;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+}
