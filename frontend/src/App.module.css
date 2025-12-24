@@ -1,0 +1,19 @@
+/* src/App.module.css */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #f3f4f6;
+}
+
+.main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 100%;
+}
+
+.center {
+  text-align: center;
+  margin-top: 3rem;
+}
