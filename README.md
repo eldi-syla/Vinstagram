@@ -1,2 +1,2 @@
-# Vinstagram
-# Vinstagram
+# Vistagram
+# Vistagram
